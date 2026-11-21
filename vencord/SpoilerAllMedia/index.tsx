@@ -1,1 +1,0 @@
-vencord/SpoilerAllMedia/index.tsx
